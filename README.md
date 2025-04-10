@@ -1,7 +1,8 @@
 
 
 # How to setup and Run
-- Go o project directory
+- Clone the repo `git clone https://github.com/iiitp-26/cloud_project.git`
+- Go o project directory `cd cloud-project`
 - Go to prime_service directory i.e. `cd prime_service`.
 - Build the docker image: `docker build -t prime-service .`
 - go to main dir : `cd ..`
